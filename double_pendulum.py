@@ -1,7 +1,6 @@
 import pygame as pg
-from pyextensions.mygame import white,black,CircleClass
+from mygame import white,black,CircleClass
 from math import *
-
 
 #Python Double Pendulum
 
