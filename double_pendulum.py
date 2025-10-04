@@ -1,3 +1,6 @@
+"""
+I followed a tutorial for this double pendulum's motion, look at My_Double_pendulum.py which was me doing the calculations instead of watching a tutorial, I finally understand derivative calculus rules, which is really important for lagragian mechanics.
+"""
 import pygame as pg
 from mygame import white,black,CircleClass
 from math import *
