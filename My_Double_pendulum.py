@@ -1,5 +1,6 @@
 """
-I am a grade 12 student, diving deep into lagragian mechanics (Saturday Oct 4 2025)
+(Saturday Oct 4 2025)
+I am a grade 12 student, diving deep into lagragian mechanics, I had to teach myself calculus (mainly derivative rules), and how lagragian mechanics work.
 This is my attempt to calculate double pendulum's motion, without ANY Tutorials, just pure calculations, and i think i got close to an actual functioning pendulum
 
 I used lagragian's equation to derive the physics of the double pendulum's motion
